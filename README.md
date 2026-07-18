@@ -1,70 +1,55 @@
-<div align="center">
 
-# Engineering Production-Grade AI Systems
+<h3 align="center">Backend-Focused Software Engineer | Microservices • Real-Time Systems • AI-Powered Applications</h3>
 
-### From scalable backends to reliable, context-aware AI applications.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupali-taneja3009/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rupalitaneja20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Gurugram,%20India-4B5563?style=for-the-badge" />
+</p>
 
-Currently building a production-grade **Medical RAG Assistant** with  
-retrieval, reranking, citation-backed answers and hallucination control.
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&lines=4.5%2B+years+building+high-throughput+microservices;Architected+omni-channel+platforms+serving+500%2B+clients;Currently+modernizing+insurance+infra+at+scale;Exploring+Agentic+AI+%26+Production-Grade+RAG+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
-## About My Work
+### 🧭 About Me
+
+I'm a backend-focused engineer with **4.5+ years** of experience designing and shipping high-throughput microservices, real-time communication systems, and enterprise-grade APIs.
+
+- 🏗️ At **Care Health Insurance**, I'm modernizing legacy infrastructure — migrating PHP → NestJS and Oracle → PostgreSQL at scale.
+- 🚀 Previously at **Acefone**, I led the system design of **Interaction Hub**, an omni-channel communication platform (WhatsApp, SMS, Voice, Video) serving **500+ enterprise clients**.
+- 🧪 Currently building a production-grade **Medical RAG Assistant** — retrieval, reranking, citation-backed answers, and hallucination control.
+- 🏆 GEM (Going Extra Mile) Award — Acefone, 2023 & 2024 (top 5% performer), and Team Player Award for cross-team delivery.
+
+---
+
+### 💼 Experience Snapshot
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-### Medical RAG Assistant
+**Software Engineer**
+Care Health Insurance · Apr 2025 – Present
 
-A production-focused Retrieval-Augmented Generation system that converts medical documents into reliable, traceable answers.
-
-The system is being designed to:
-
-- Ingest and process medical documents
-- Generate and store vector embeddings
-- Perform metadata-filtered retrieval
-- Rerank retrieved document chunks
-- Generate grounded answers using AWS Bedrock
-- Attach verifiable citations
-- Reject unsupported questions
-- Measure retrieval and answer quality
+- Shipped 15+ REST APIs (NestJS/TypeScript) powering core claim & policy workflows — **~30% faster** manual processing
+- Migrated Laravel monolith → NestJS microservices, cutting deployment time by **~40%**
+- Drove Oracle → PostgreSQL migration across 5 services, reducing query latency by **~35%**
 
 </td>
+<td width="50%" valign="top">
 
-<td width="42%" valign="top">
+**Software Developer**
+Acefone Software Pvt. Ltd. · Jan 2022 – Apr 2025
 
-### Current Focus
-
-```text
-Document Ingestion
-        ↓
-Chunking + Metadata
-        ↓
-Embeddings
-        ↓
-Pinecone Retrieval
-        ↓
-Reranking
-        ↓
-AWS Bedrock
-        ↓
-Citation-backed Answer
-```
+- Led system design of **Interaction Hub**, a Kafka-driven omni-channel platform for 500+ clients
+- Optimized 20+ API endpoints, cutting response time from **~800ms → ~200ms**
+- Integrated SonarQube in CI/CD, reducing critical code issues by **~60%**
 
 </td>
 </tr>
@@ -72,75 +57,79 @@ Citation-backed Answer
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
+**Backend & Languages**
 
-### Languages & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=typescript,nestjs,nodejs,python&theme=dark" alt="Languages and Backend"/>
+**Frontend**
 
-<br><br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-### Data & Infrastructure
+**Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=mongodb,kafka,docker,git,github,aws&theme=dark" alt="Data and Infrastructure"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br><br>
+**Real-Time & Messaging**
 
-<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
-<img src="https://img.shields.io/badge/Pinecone-111111?style=for-the-badge&logoColor=white" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-</div>
+**Security & Quality**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2.0-3C873A?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Medical RAG Assistant
-
-Production-grade medical document question-answering system.
-
-**Core capabilities**
-
-- Document ingestion pipeline
-- Metadata-aware vector retrieval
-- Semantic reranking
-- AWS Bedrock integration
-- Citation-backed responses
-- Unsupported-question handling
-- RAG evaluation workflow
-- Airflow orchestration
-
-**Tech**
-
-`NestJS` `Python` `AWS Bedrock` `Pinecone` `MongoDB` `Airflow`
+**[Interaction Hub — Omni-Channel Platform](https://github.com/rupalitaneja-3009)**
+Event-driven microservices supporting WhatsApp, SMS, Voice & Video for **10,000+ concurrent users**. Kafka topic strategy, WebSocket gateway, sub-200ms message delivery at peak load.
+`NestJS` `Kafka` `Redis` `MongoDB` `React`
 
 </td>
-
 <td width="50%" valign="top">
 
-### Event Streaming Engine
+**[API Gateway + Auth Service](https://github.com/rupalitaneja-3009/api-gateway-auth-kit)**
+Production-ready microservices starter kit — JWT with refresh token rotation, RBAC, Redis token blacklisting, rate limiting, Dockerized with one-command startup.
+`NestJS` `PostgreSQL` `Redis` `Docker`
 
-Event-driven real-time communication and notification backend.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Core capabilities**
+**[Event Streaming Engine](https://github.com/rupalitaneja-3009/event-streaming-engine)**
+Kafka-based notification pipeline processing **50,000+ events/day** across WebSocket, SMS, Email & Webhook, with DLQ and retry logic achieving 99.9% delivery reliability.
+`Kafka` `WebSockets` `MongoDB` `Docker`
 
-- Kafka-based event processing
-- Asynchronous messaging
-- WebSocket communication
-- Retry and failure handling
-- Dead Letter Queue
-- Scalable microservice architecture
+</td>
+<td width="50%" valign="top">
 
-**Tech**
-
-`NestJS` `TypeScript` `Kafka` `MongoDB` `WebSockets` `Docker`
+**[Medical RAG Assistant](https://github.com/rupalitaneja-3009/ai-health-insurance-chatbot)** *(in progress)*
+Production-focused RAG system converting medical documents into reliable, citation-backed answers with metadata-filtered retrieval, reranking, and hallucination control.
+`Python` `AWS Bedrock` `Pinecone` `Airflow`
 
 </td>
 </tr>
@@ -148,39 +137,24 @@ Event-driven real-time communication and notification backend.
 
 ---
 
-## Currently Exploring
+### 🎓 Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-8A2BE2?style=flat-square" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/RAG%20Evaluation-Learning-2563EB?style=flat-square" alt="RAG Evaluation"/>
-<img src="https://img.shields.io/badge/LLM%20Observability-Exploring-059669?style=flat-square" alt="LLM Observability"/>
-<img src="https://img.shields.io/badge/Hallucination%20Reduction-Focused-DC2626?style=flat-square" alt="Hallucination Reduction"/>
-
-</div>
+- **AWS Cloud Practitioner Essentials** — AWS Skill Builder
+- **Introduction to Generative AI** — Google Cloud Skills Boost
 
 ---
 
-## GitHub Activity
+### 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rupalitaneja-3009&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalitaneja-3009&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rupalitaneja-3009&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rupalitaneja-3009&hide_border=true&theme=tokyonight" />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalitaneja-3009&layout=compact&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=rupalitaneja-3009&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Building backend systems today, engineering intelligent systems next.
-
-<img src="https://komarev.com/ghpvc/?username=rupalitaneja-3009&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rupalitaneja-3009&label=Profile%20Views&color=2E8B57&style=flat" />
+</p>
