@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rupali Taneja banner" width="100%"/>
+<img src="./assets/banner.svg?v=2" alt="Rupali Taneja banner" width="100%"/>
 
 <br/>
 
