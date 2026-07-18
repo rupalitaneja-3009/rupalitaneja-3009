@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rupali</h1>
 
-<!--
-**rupalitaneja-3009/rupalitaneja-3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Building+Production-Grade+AI+Systems;RAG+%7C+Agentic+AI+%7C+LLMs;NestJS+%7C+Python+%7C+AWS+Bedrock)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+### From scalable backends
+to production-grade AI systems.
+
+Building RAG systems,
+LLM-powered applications,
+Agentic AI,
+and event-driven architectures.
+
+**Tech Stack**
+
+NestJS • Python • AWS Bedrock • Pinecone • Kafka • MongoDB • Airflow
