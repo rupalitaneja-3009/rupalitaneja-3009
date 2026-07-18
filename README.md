@@ -2,114 +2,176 @@
 
 # Engineering Production-Grade AI Systems
 
-### From scalable backends to intelligent AI applications.
+### From scalable backends to reliable, context-aware AI applications.
 
-Building **RAG systems**, **LLM-powered applications**,
-**Agentic AI**, and **event-driven architectures**.
+Currently building a production-grade **Medical RAG Assistant** with  
+retrieval, reranking, citation-backed answers and hallucination control.
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
+<br>
+
 ---
 
-# 🚀 What I Build
+## About My Work
 
 <table>
 <tr>
+<td width="58%" valign="top">
 
-<td width="25%" valign="top">
+### Medical RAG Assistant
 
-## 🔎 RAG Systems
+A production-focused Retrieval-Augmented Generation system that converts medical documents into reliable, traceable answers.
 
-Retrieval, reranking and generation pipelines with grounded, citation-backed answers.
+The system is being designed to:
 
-</td>
-
-<td width="25%" valign="top">
-
-## 🧠 LLM Applications
-
-Reliable, scalable and production-ready AI applications powered by LLMs.
-
-</td>
-
-<td width="25%" valign="top">
-
-## 🤖 Agentic AI
-
-AI agents capable of planning, reasoning, tool calling and multi-step execution.
+- Ingest and process medical documents
+- Generate and store vector embeddings
+- Perform metadata-filtered retrieval
+- Rerank retrieved document chunks
+- Generate grounded answers using AWS Bedrock
+- Attach verifiable citations
+- Reject unsupported questions
+- Measure retrieval and answer quality
 
 </td>
 
-<td width="25%" valign="top">
+<td width="42%" valign="top">
 
-## ⚡ Event-Driven Systems
+### Current Focus
 
-Distributed backend systems built using Kafka, asynchronous messaging and microservices.
+```text
+Document Ingestion
+        ↓
+Chunking + Metadata
+        ↓
+Embeddings
+        ↓
+Pinecone Retrieval
+        ↓
+Reranking
+        ↓
+AWS Bedrock
+        ↓
+Citation-backed Answer
+```
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,nestjs,nodejs,python&theme=dark" alt="Languages and Backend"/>
 
-<br/><br/>
+<br><br>
 
-### AI & Cloud
+### Data & Infrastructure
 
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,kafka,docker,git,github,aws&theme=dark" alt="Data and Infrastructure"/>
 
-<br/><br/>
+<br><br>
 
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github&theme=dark" />
-
-<br/><br/>
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
+<img src="https://img.shields.io/badge/Pinecone-111111?style=for-the-badge&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🩺 **Medical RAG Assistant** | Production-grade Retrieval-Augmented Generation using AWS Bedrock, Pinecone, Airflow and NestJS with reranking, citations and evaluation. |
-| ⚡ **Event Streaming Engine** | Kafka-powered event-driven notification platform built with NestJS, MongoDB and WebSockets. |
-| 🤖 **Agentic AI Workflows** | Multi-step AI agents using Python, tool calling, retrieval and planning. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Medical RAG Assistant
+
+Production-grade medical document question-answering system.
+
+**Core capabilities**
+
+- Document ingestion pipeline
+- Metadata-aware vector retrieval
+- Semantic reranking
+- AWS Bedrock integration
+- Citation-backed responses
+- Unsupported-question handling
+- RAG evaluation workflow
+- Airflow orchestration
+
+**Tech**
+
+`NestJS` `Python` `AWS Bedrock` `Pinecone` `MongoDB` `Airflow`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Event Streaming Engine
+
+Event-driven real-time communication and notification backend.
+
+**Core capabilities**
+
+- Kafka-based event processing
+- Asynchronous messaging
+- WebSocket communication
+- Retry and failure handling
+- Dead Letter Queue
+- Scalable microservice architecture
+
+**Tech**
+
+`NestJS` `TypeScript` `Kafka` `MongoDB` `WebSockets` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
+## Currently Exploring
+
 <div align="center">
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-8A2BE2?style=flat-square" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/RAG%20Evaluation-Learning-2563EB?style=flat-square" alt="RAG Evaluation"/>
+<img src="https://img.shields.io/badge/LLM%20Observability-Exploring-059669?style=flat-square" alt="LLM Observability"/>
+<img src="https://img.shields.io/badge/Hallucination%20Reduction-Focused-DC2626?style=flat-square" alt="Hallucination Reduction"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rupalitaneja-3009&show_icons=true&hide_border=true&rank_icon=github" />
+</div>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalitaneja-3009&layout=compact&hide_border=true"/>
+---
 
-<br/><br/>
+## GitHub Activity
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rupalitaneja-3009&hide_border=true"/>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rupalitaneja-3009&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalitaneja-3009&layout=compact&hide_border=true&langs_count=6" alt="Top Languages"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=rupalitaneja-3009&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -117,30 +179,8 @@ Distributed backend systems built using Kafka, asynchronous messaging and micros
 
 <div align="center">
 
-## 📈 Contribution Graph
+### Building backend systems today, engineering intelligent systems next.
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalitaneja-3009&theme=github-compact&hide_border=true)](https://github.com/rupalitaneja-3009)
-
-</div>
-
----
-
-# 🎯 Currently Exploring
-
-- Production-grade RAG
-- Agentic AI
-- LLM Evaluation
-- AI Observability
-- Hallucination Reduction
-- Distributed Systems
-- Event-Driven Architectures
-
----
-
-<div align="center">
-
-### Building reliable AI systems, one commit at a time.
-
-![Profile Views](https://komarev.com/ghpvc/?username=rupalitaneja-3009&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=rupalitaneja-3009&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
 
 </div>
